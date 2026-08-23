@@ -154,7 +154,6 @@ body {
   transform: scale(1.3);
 }
 
-
 @media (max-width: 600px) {
   .carousel {
     width: 90vw;
