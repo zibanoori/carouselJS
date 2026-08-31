@@ -1,4 +1,4 @@
-# Vanilla JS Carousel | Luxury Perfumes
+# jsCarousel | Luxury Perfumes
 
 A responsive luxury perfume carousel built with HTML, CSS, and Vanilla JavaScript.
 
@@ -19,7 +19,7 @@ A responsive luxury perfume carousel built with HTML, CSS, and Vanilla JavaScrip
 
 ## Live Demo
 
-https://zibanoori.github.io/vanilla-js-carousel/
+https://zibanoori.github.io/jsCarousel/
 
 ## Author
 
